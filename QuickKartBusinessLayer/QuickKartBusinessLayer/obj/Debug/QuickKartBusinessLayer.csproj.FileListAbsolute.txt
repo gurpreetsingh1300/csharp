@@ -1,0 +1,6 @@
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuickKartBusinessLayer\bin\Debug\QuickKartBusinessLayer.dll
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuickKartBusinessLayer\bin\Debug\QuickKartBusinessLayer.pdb
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuickKartBusinessLayer\obj\Debug\QuickKartBusinessLayer.csprojAssemblyReference.cache
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuickKartBusinessLayer\obj\Debug\QuickKartBusinessLayer.csproj.CoreCompileInputs.cache
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuickKartBusinessLayer\obj\Debug\QuickKartBusinessLayer.dll
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuickKartBusinessLayer\obj\Debug\QuickKartBusinessLayer.pdb

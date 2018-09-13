@@ -1,0 +1,10 @@
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuicKartTestApp\bin\Debug\QuicKartTestApp.exe.config
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuicKartTestApp\bin\Debug\QuicKartTestApp.exe
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuicKartTestApp\bin\Debug\QuicKartTestApp.pdb
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuicKartTestApp\bin\Debug\QuickKartBusinessLayer.dll
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuicKartTestApp\bin\Debug\QuickKartBusinessLayer.pdb
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuicKartTestApp\obj\Debug\QuicKartTestApp.csprojAssemblyReference.cache
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuicKartTestApp\obj\Debug\QuicKartTestApp.csproj.CoreCompileInputs.cache
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuicKartTestApp\obj\Debug\QuicKartTestApp.csproj.CopyComplete
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuicKartTestApp\obj\Debug\QuicKartTestApp.exe
+G:\GURPREET SINGH\Study\C#\C#\csharp\QuickCart\QuickKartBusinessLayer\QuicKartTestApp\obj\Debug\QuicKartTestApp.pdb
